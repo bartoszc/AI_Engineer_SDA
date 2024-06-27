@@ -22,7 +22,7 @@ W ramach tego notebooka omówimy następujące zagadnienia:
 *   Pomysły na wykorzystanie GPT we wsparciu pracy developerskiej.
     
 
-Notebook ten wykorzystuje dane dotyczące samochodów elektrycznych w stanie Waszyngton, USA, które można znaleźć pod tym linkiem.
+Notebook ten wykorzystuje dane dotyczące samochodów elektrycznych w stanie Waszyngton, USA, które można znaleźć [pod tym linkiem](https://catalog.data.gov/dataset/electric-vehicle-population-data)
 
 Wymagania
 ---------
